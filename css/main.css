@@ -1,0 +1,54 @@
+
+.form-horizontal {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.row {
+  margin: 0 auto;
+}
+
+#reg {
+  width: 300px;
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 15px;
+
+}
+
+#red h2 {
+  font-size: 1rem;
+  
+}
+
+#newPassword {
+  margin-top: 20px;
+}
+
+.form-group {
+  text-align: center;
+  width: 600px;
+  margin-top: 60px;
+}
+
+.form-control {
+  box-shadow: 4px 6px 20px 3px #820d0d;
+}
+
+button {
+  position: relative;
+  top: 30px;
+  right: 60px;
+  box-shadow: 4px 6px 20px 3px #820d0d;
+  color:white;
+}
+
+#password {
+  margin-top: 20px;
+}
+
+label {
+  position: relative;
+  right: 200px;
+  top: 10px;
+}
